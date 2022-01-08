@@ -1,0 +1,41 @@
+ /*Aqui dentro se pone lo referente a CSS*/
+ .encabezado{
+    /*font-size: para tamaño de la fuente*/
+    font-size: 72px;
+    /*color de fuente
+    medidas comunies : px,%,em,rem*/
+    color: cadetblue;
+    /*Para el color de fondo*/
+    background-color: crimson;
+    /*Para centrar el texto*/
+    text-align: center;
+    text-transform: uppercase;
+}
+body{
+    background-color: #e1e1e1;  
+}
+
+#texto{ 
+    color:blue;
+    background-color: rgb(214, 1, 1);
+    font-size: 24px;
+    font-style: italic;
+
+}
+
+.texto{
+    color: white;
+    background-color: black;
+
+}
+
+p{
+    color: white;
+    background-color: dimgray;
+}
+p{
+    color: yellow;
+    background-color: teal;
+}
+
+ 

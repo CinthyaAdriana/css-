@@ -1,0 +1,28 @@
+body{
+    background-color: green;
+    background-size: cover;
+} 
+
+.titulo{
+    color: white;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 40px;
+    margin-left: 50px;
+}
+
+.datos{
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 20px; 
+    color:white;
+    padding: 5px;
+    margin-left: 250px;
+
+} 
+
+.recuadro{
+    border: 2px solid red;
+    margin-left: 10px;
+
+} 
+

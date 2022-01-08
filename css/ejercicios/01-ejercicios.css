@@ -1,0 +1,36 @@
+body{
+    background-color: seagreen;
+}
+
+#encabezado{
+    color: black;
+    font-size: 5cm;
+    text-transform: capitalize;
+
+}
+
+.cursiva{ 
+    color: blanchedalmond;
+    font-size: 2cm;
+    font-style: italic;
+
+}
+
+.arial{
+    color:darkkhaki; 
+    font-size: 2cm;
+    font-style: normal;
+}
+
+.amarilla{
+    color:yellow;
+    font-size: 2cm;
+    font-style: inherit;
+}
+
+.rosa{
+    color: rgb(228, 34, 141);
+    font-size: 2cm; 
+    font-style: oblique;
+
+}

@@ -1,0 +1,15 @@
+
+/*Enlace fuente de google I importamos dos fuentes*/
+@import url('https://fonts.googleapis.com/css2?family=Pushster&family=Roboto:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Pushster&family=Roboto:wght@700&display=swap');
+
+h1{ 
+    /*Estilo copiado de google*/
+    font-family: 'Pushster', cursive;
+
+}
+p{   
+font-family: 'Roboto', sans-serif;
+font-size: 20px;
+}

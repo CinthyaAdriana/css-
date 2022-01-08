@@ -1,0 +1,21 @@
+body{
+    background-color: skyblue;
+
+} 
+
+.encabezadoderecha{ 
+    text-align: right;
+    font-size: 2cm;
+
+}
+
+.encabezado1{ 
+
+color: black;
+font-size: 1cm;
+} 
+
+.encabezado2{
+    color: black;
+    font-size: 1cm;
+}

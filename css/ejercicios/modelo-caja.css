@@ -1,0 +1,41 @@
+body{
+    /* background-image: url(https://www.logaster.ru/blog/wp-content/uploads/sites/2/2020/02/circlepatternsite.jpg); */
+
+    background-repeat: no-repeat; /* para que el fondo no se repita*/
+    background-size: cover; /* para ajunstar el tamaño de fondo*/
+}
+
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.subtitle{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} 
+
+.caja{ /* lo que hagamos aqui en caja se aplicará en todos los elementos */
+    width: 300px;
+    height: 300px; 
+    margin: 20px;
+    margin-bottom: 20px;
+    font-size: 50px;
+    padding: 20px;
+    border-radius: 30px; /*los bordes se hacen curvos*/
+} 
+
+.rojo{
+    /*background-color: red;*/
+    border-top: 5px dashed red;
+}
+
+.verde{
+    /*background-color: green;*/
+    border: 5px dotted green;
+}
+
+.azul{
+    /*background-color: blue;*/ 
+    border: 5px solid blue;
+}
