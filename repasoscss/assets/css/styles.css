@@ -1,0 +1,49 @@
+body{
+    margin: 0; /*para quitar el espacio de la barras*/
+    padding: 0%;
+}
+
+
+.menu{
+    background-color: rgb(235, 34, 34); 
+    height: 50px;
+   
+}  
+
+.menu ul{
+    width: 800px; 
+    margin: 0 auto;  
+    text-align: center; /*alimear el contenido de la barra de nav*/
+}
+
+.elemento{
+    display: inline;  
+    margin: 0 40px; 
+    /*margin: superior derecha inferior izquierda;*/ 
+
+} 
+
+.elemento a{
+    font-size: 24px;  
+    color: white; 
+    text-decoration: none; 
+    line-height: 50px;  
+    display: inline; 
+    font-family: 'Hind', sans-serif; 
+    transition: color 0.3s; /*el tiempo que va a tardar en trancisionar el color*/
+} 
+
+.elemento a:hover{
+    color: gray; /*para que se iluminen las letras de la nav*/
+} 
+
+/*.menu .elemento:hover{
+    background-color: rgba(128, 87, 0, 0.589); 
+
+} para que se ilumine un cuadrito*/
+
+.menu .elemento{
+    display: inline; 
+    margin: 0 20px; 
+    padding: 10px;
+}
